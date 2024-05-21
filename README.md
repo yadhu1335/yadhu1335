@@ -1,7 +1,4 @@
 ## Hi there 👋
- <p align="center" >
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
- </p>
 
  <div align="center">
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
