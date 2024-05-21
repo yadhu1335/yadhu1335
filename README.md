@@ -1,5 +1,9 @@
 ## Hi there 👋
- ![Codewars](https://github.r2v.ch/codewars?user=yadhukrishna-k&name=true&top_languages=true)
+ <p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=yadhukrishna-k&name=true&top_languages=true" />
+    </a>
+</p>
 
 <!--
 **yadhu1335/yadhu1335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
