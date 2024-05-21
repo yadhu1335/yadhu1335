@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)  
 
 <!--
 **yadhu1335/yadhu1335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
