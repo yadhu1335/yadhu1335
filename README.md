@@ -5,6 +5,7 @@
     </a>
 </p>
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=yadhukrishna-k)](https://github.com/ignacio-cuadra/github-readme-codewars)
 <!--
 **yadhu1335/yadhu1335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
