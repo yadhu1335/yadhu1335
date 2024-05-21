@@ -1,8 +1,8 @@
 ## Hi there 👋
 
  <div align="center">
-  <a>
-    <img src="https://codewars-stats-yadhukrishna-k.vercel.app/?username=yadhukrishna-k&name=true&theme=dracula" alt="Github Readme Codewars">
+  <a >
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yadhukrishna-k&name=true&theme=dracula" alt="Github Readme Codewars">
   </a>
 </div>
 
