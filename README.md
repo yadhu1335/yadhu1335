@@ -4,8 +4,9 @@
       <img src="https://github.r2v.ch/codewars?user=yadhukrishna-k&name=true&top_languages=true" />
     </a>
 </p>
-
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=yadhukrishna-k)](https://github.com/ignacio-cuadra/github-readme-codewars)
+ <p align="center" >
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
+ </p>
 <!--
 **yadhu1335/yadhu1335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
