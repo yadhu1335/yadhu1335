@@ -1,12 +1,14 @@
 ## Hi there 👋
  <p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=yadhukrishna-k&name=true&top_languages=true" />
-    </a>
-</p>
- <p align="center" >
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
  </p>
+
+ <div align="center">
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yadhukrishna-k&name=true&theme=dracula" alt="Github Readme Codewars">
+  </a>
+</div>
+
 <!--
 **yadhu1335/yadhu1335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
